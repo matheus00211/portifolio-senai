@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio TI Savior</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="main-content">
+    <header class="container header active" id="home">
+        <div class="header-content">
+            <div class="left-header">
+                <div class="h-shape"></div>
+                <div class="image">
+                    <img src="img/blog2.jpg" alt="">
+                </div>
+            </div>
+            <div class="right-header">
+                <h1 class="name">
+                    Oi, eu sou <span>Kênia.</span>
+                    Contadora.
+                </h1>
+                <p>
+                    Contadora com experiência há mais de vinte anos, com foco em contabilidade de empresas; com experiência em empresas do Simples Nacional e Lucro Presumido. <a href="https://www.tisavior.com/">TI Savior</a href="">.
+                </p>
+                <div class="btn-con">
+                    <a href="https://drive.google.com/file/d/1Z_bs0nIL8oOmzjLpAmCOt1CCzW_apIl8/view?usp=drive_link" class="main-btn">
+                        <span class="btn-text">Download CV</span>
+                        <span class="btn-icon"><i class="fas fa-download"></i></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="container about" id="about">
+            <div class="main-title">
+                <h2>About <span>me</span><span class="bg-text">my stats</span></h2>
+            </div>
+            <br>
+            <div class="about-container">
+                <div class="left-about">
+                    <h4>Quem sou?</h4>
+                    <p>
+                        Bacharel em ciências contábeis- CRC/DF 028026 - Projeção (conclusão em 05/2005); <br/> <br/> Departamento Pessoal - Senac (conclusão em 06/2002); Cursos relacionados a atualizações na área fiscal e DP (Simples nacional, NF-e, NFC-e, NFS-e, Esocial, FGTS Digital); <br/> <br/> e Pós Graduação - Gestão Contábil e Tributária Aplicada no Terceiro Setor (Cursando, previsão de término em 12/2024)
+                    </p>
+                </br>
+                    <div class="btn-con">
+                        <a href="https://drive.google.com/file/d/1Z_bs0nIL8oOmzjLpAmCOt1CCzW_apIl8/view?usp=drive_link" class="main-btn">
+                            <span class="btn-text">Download CV</span>
+                            <span class="btn-icon"><i class="fas fa-download"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="right-about">
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">6+</p>
+                            <p class="small-text">Projetos <br /> completos</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">20+</p>
+                            <p class="small-text">Anos de <br /> experiência</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">150+</p>
+                            <p class="small-text">Clientes <br /> e alunos</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">100+</p>
+                            <p class="small-text">Comentários <br /> positivos</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-stats">
+                <h4 class="stat-title">Minhas habilidades</h4>
+                <div class="progress-bars">
+                    <div class="progress-bar">
+                        <p class="prog-title">Departamento Pessoal</p>
+                        <div class="progress-con">
+                            <p class="prog-text">100%</p>
+                            <div class="progress">
+                                <span class="html"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Departamento Fiscal</p>
+                        <div class="progress-con">
+                            <p class="prog-text">70%</p>
+                            <div class="progress">
+                                <span class="css"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Departamento Contábil</p>
+                        <div class="progress-con">
+                            <p class="prog-text">50%</p>
+                            <div class="progress">
+                                <span class="js"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Registro de Empresas</p>
+                        <div class="progress-con">
+                            <p class="prog-text">100%</p>
+                            <div class="progress">
+                                <span class="photoshop"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Excell Intermediario </p>
+                        <div class="progress-con">
+                            <p class="prog-text">50%</p>
+                            <div class="progress">
+                                <span class="uxui"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Python</p>
+                        <div class="progress-con">
+                            <p class="prog-text">30%</p>
+                            <div class="progress">
+                                <span class="python"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <h4 class="stat-title">Minha trajetória</h4>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <p class="tl-duration">2014 - 2016</p>
+                 <span> -Desenvolvedora de Software </span></h5>
+                    <p>
+                       Participei do Desenvolvimento de um aplicativo móvel, colaborando na implementação de funcionalidades e na correção de bugs, resultando em uma melhoria de 40% na experiencia de usuario
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <p class="tl-duration">2018 - 2024</p>
+                    <span> -Arka Online serviços de contabilidade LTDA </span></h5>
+                    <p>
+                      gerenciamento de contas no setor de comércio e serviços, incluido a coordenação da equipe, a distribuição de tarefas e o acompanhamento das demandas diárias
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2016 - 2017</p>
+                    <span> Resulta Contábil LTDA </span></h5>
+                    <p>
+                   Abertura, alteração e fechamento de empresas, lançamento de registros fiscais, emissão de impostos e envio de obrigações acessóriais, lançamento e processamento da folha de pagamento e emissão de impostos e envio de obrigações acessóriais.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2013 - 2016</p>
+                    <span> Designer Gráfico </span></h5>
+                    <p>
+                       Criei identidades visuais para marcas e desenvolvi materiais promocionais, aumentando a visibilidade das empresas e contribuindo para um aumento nas vendas de ate 30%
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2015 - 2019 </p>
+                 <span> Assistente Adiministrativo  </span></h5>
+                    <p>
+                        Gerenciei a agenda do diretor e organizei documentos, otimizando processos administrativos e reduzindo o tempo de reposta a solicitações internas em 20%
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <p class="tl-duration">2018 - 2020</p>
+                    <span> Controle Contabilidade LTDA </span></h5>
+                    <p>
+                       Abertura, alteração e fechamento de empresas, lançamento de registro fiscais, emissão de impostos e envio de obrigações acessórias, lançamento e processamento da folha de pagamento e emissão de impostos.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2022 - 2024</p>
+                    <span> - Coodernadora de Projetos </span></h5>
+                    <p>
+                       Liderei uma equipe na execução de projetos, garantindo que os prazos e orçamentos fossem compridos. Implementei metodologias ágeis que aumentaram a eficiência em 25% e melhoraram a comunicação entre os membros da equipe.
+                    </p>
+                </div>
+                  <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2023 - 2024</p>
+                 <span> - Vendedora </span></h5>
+                    <p>
+                      fui responsável por atender cliesntes e realizar vendas em loja, atigindo metas mensais de vendas em 120%. Desenvolvi relacionamentos duradouros com os clientes, resultando em um aumento significativo na fidelização.                      
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <p class="tl-duration">2023 - Atualmente</p>
+                   <span> -Analista de Marketing </span></h5>
+                    <p>
+                      Desenvolvi e campanhas de marketing digital, aumentando o engajamento nas redes sociais em 30% e contribuindo para um crescimento 15% nas vendas trimestrais                        
+                  
+        <!-- Certificates -->
+
+        <section class="container" id="blogs">
+            <div class="blogs-content">
+                <div class="main-title">
+                    <h2>My <span>Certificates</span><span class="bg-text">My Expertise</span></h2>
+                </div>
+                <div class="blogs">
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                              Bacharel em ciências contábeis
+                            </h4>
+                            <p>
+                               Projeção - Sob carga horária de 5000 horas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                                Departamento Pessoal
+                            </h4>
+                            <p>
+                               Senac- Sob carga horária de 600 horas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                               Curso Departamento Fiscal
+                            </h4>
+                            <p>
+                               Simples Nacional - Sob carga horária de 600 horas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                            Gestão contábil e Tributária Aplicada no Terceiro Setor
+                            </h4>
+                            <p>
+                             Líbano - Sob carga horária de 3000 horas.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                               Técnico em Enfermagem
+                            </h4>
+                            <p>
+                                Escola técnica DEF - Sob carga horária de 1.200 horas. 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                               Especialização em Marketing Digital
+                            </h4>
+                            <p>
+                                Faculdade ABC- Sob carga horária de 360 horas.
+                            </p>
+                        </div>
+                    </div>
+                     <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                              Graduação em Administração
+                            </h4>
+                            <p>
+                                Universidade XYZ, Sob Carga horária de 3.200 horas.
+                            </p>
+                        </div>
+                    </div>
+                     <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                                Curso de inglês
+                            </h4>
+                            <p>
+                              Escola de idiomas GHI - Cursando um total de 240 horas.
+                            </p>
+                        </div>
+                    </div>
+                     <div class="blog">
+                        <img src="img/cert1.jpg" alt="">
+                        <div class="blog-text">
+                            <h4>
+                               Curso em Excel Avançado
+                            </h4>
+                            <p>
+                               Escola de Negócios GHI - Cursando um total de 30 horas.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Page Contact --> 
+        
+        <section class="container contact" id="contact">
+            <div class="contact-container">
+                <div class="main-title">
+                    <h2>Contact <span>Me</span><span class="bg-text">My <br>Links</span></h2>
+                </div>
+                <div class="contact-content-con">
+                    <div class="left-contact">
+                        <h4>CONTATO</h4>
+                        <p>
+                            Aprimore sua empresa com a TI Savior: Soluções digitais, design gráfico, sistemas gerenciadores, web design.
+                        </p>
+                        <div class="contact-info">
+                            <div class="contact-item">
+                                <div class="icon">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    <span>Localização</span>
+                                </div>
+                                <p>
+                                :  Brasilia, Brasil BR
+                                </p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon">
+                                    <i class="fas fa-envelope"></i>
+                                    <span>Email</span>
+                                </div>
+                                <p>
+                                    <span>:  Kênia_nóbrega@hotmail.com </span>
+                                </p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon">
+                                    <i class="fas fa-user"></i>
+                                    <span>WhatsApp</span>
+                                </div>
+                                <p>
+                                    <span>:  (61) 98101-4481</span>
+                                </p>
+                            </div>
+                            <div class="contact-item">
+                                <div class="icon">
+                                    <i class="fas fa-globe-africa"></i>
+                                    <span>Proficiência</span>
+                                </div>
+                                <p>
+                                    <span>:  Inglês, Espanhol</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="contact-icons">
+                            <div class="contact-icon">
+                                <a href="https://www.instagram.com/laryssasavior/" target="_blank">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="#" target="_blank">
+                                    <i class="fab fa-whatsapp"></i>
+                                </a>
+                                <a href="https://github.com/laryssasavior/" target="_blank">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/in/laryssamoraesp/" target="_blank">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                   <div class="right-contact">
+                        <form id="contact-form" action="send_email.php" method="POST" class="contact-form">
+                            <div class="input-control i-c-2">
+                                <input type="text" name="name" required placeholder="Seu nome">
+                                <input type="email" name="email" required placeholder="Seu email">
+                            </div>
+                            <div class="input-control">
+                                <input type="text" name="subject" required placeholder="Como posso ajudar?">
+                            </div>
+                            <div class="input-control">
+                                <textarea name="message" cols="15" rows="8" placeholder="Sua mensagem..."></textarea>
+                            </div>
+                            <div class="submit-btn">
+                                <button type="submit" class="main-btn">
+                                    <span class="btn-text">Enviar</span>
+                                    <span class="btn-icon"><i class="fas fa-upload"></i></span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="controls">
+        <div class="control active-btn" data-id="home" >
+            <i class="fas fa-home"></i>
+        </div>
+        <div class="control" data-id="about">
+            <i class="fas fa-user"></i>
+        </div>
+        <div class="control" data-id="portfolio">
+            <i class="fas fa-briefcase"></i>
+        </div>
+        <div class="control" data-id="blogs">
+            <i class="far fa-newspaper"></i>
+        </div>
+        <div class="control" data-id="contact">
+            <i class="fas fa-envelope-open"></i>
+        </div>
+    </div>
+    <div class="theme-btn">
+        <i class="fas fa-adjust"></i>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
